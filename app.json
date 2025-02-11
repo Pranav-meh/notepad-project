@@ -1,4 +1,6 @@
 {
   "name": "Notepad",
-  "displayName": "Notepad"
+  "displayName": "Notepad",
+  "android": {    "googleServicesFile": "./android/app/google-services.json",    "package": "com.login_with_sql"  }
+
 }
